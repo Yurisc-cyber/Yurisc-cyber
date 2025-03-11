@@ -14,8 +14,7 @@
 
 <br>
 
-Iniciante no mundo da programação!
-Dedicado e disposto a aprender!!
+Iniciante no mundo da programação, dedicado e disposto a aprender!!
 
 <br><br>
 
