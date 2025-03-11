@@ -14,8 +14,8 @@
 
 <br>
 
-- A passionate Self-taught Full-stack developer
-- Playing CTF's at spare time
+Iniciante no mundo da programação!
+Dedicado e disposto a aprender!!
 
 <br><br>
 
